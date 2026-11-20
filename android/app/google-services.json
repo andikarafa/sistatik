@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303319621575",
+    "project_id": "monitoring-bps",
+    "storage_bucket": "monitoring-bps.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303319621575:android:fda4ed70dd95b8d6db83e2",
+        "android_client_info": {
+          "package_name": "com.example.monitoring_pegawai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5g6IQG7PG3P-wuvnqPCiFlWWs99BmaQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
